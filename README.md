@@ -32,9 +32,13 @@
 </h2>
 
 MAIN
+![Home](https://github.com/gabr1elpachec0/nlw-expert-react/assets/97643968/8902dc6a-d395-4e0e-aefc-7d76bf111781)
 
 NEW NOTE
+![Dialog (New)](https://github.com/gabr1elpachec0/nlw-expert-react/assets/97643968/6ca2c9ab-3d26-4f66-be7b-3ccd818b950b)
 
 DELETE NOTE
+![Dialog (Filled)](https://github.com/gabr1elpachec0/nlw-expert-react/assets/97643968/81c37779-ce59-406a-87a8-d08d8aa3f255)
 
 FILTER NOTE
+![Dialog (New) (States)](https://github.com/gabr1elpachec0/nlw-expert-react/assets/97643968/afdb9c2e-4f1a-4d3b-895b-1042e0df6a11)
