@@ -9,8 +9,8 @@
 </p>
 
 
-<h2>
-  Technologies
+<h2 id='tech'>
+  ☑️ Technologies
 </h2>
 
 1. ```TYPESCRIPT```
@@ -19,8 +19,8 @@
 4. ```SPEECH RECOGNITION API```
 5. ```SONNER```
 
-<h2>
-  Fonts/Icons
+<h2 id='utils'>
+  📌 Fonts/Icons
 </h2>
 
 <p>
@@ -28,8 +28,8 @@
   <a href='https://lucide.dev/guide/packages/lucide-react'>Lucide React</a>
 </p>
 
-<h2>
-  Pictures
+<h2 id='pics'>
+  🔗 Pictures
 </h2>
 
 MAIN <br/>
