@@ -17,6 +17,7 @@
 2. ```REACT```
 3. ```TAILWINDCSS```
 4. ```SPEECH RECOGNITION API```
+5. ```SONNER```
 
 <h2>
   Fonts/Icons
