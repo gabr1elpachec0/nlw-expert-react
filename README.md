@@ -1,5 +1,5 @@
 <h1 align='center'>
-  nlw expert
+  nlw expert - React
 </h1>
 
 <p align='center'>
